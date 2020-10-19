@@ -1,3 +1,4 @@
+#This code helps find the average of the values in the given set
 count = 0
 summ = 0
 print(" before " , count, summ)

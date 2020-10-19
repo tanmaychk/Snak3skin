@@ -1,3 +1,4 @@
+#This code helps count the number of items in the set
 cnt = 0
 
 print(" before" , cnt)

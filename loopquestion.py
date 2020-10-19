@@ -1,3 +1,4 @@
+#this code finds the max and min vlaue according to the given values in the set
 largest = None
 smallest = None
 while True:
