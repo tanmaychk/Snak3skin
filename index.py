@@ -1,3 +1,3 @@
 word = "battery"
-letter = word[3]
-print(letter)
+letr = word[3]
+print(letr)
