@@ -1,3 +1,3 @@
 word = "battery"
-letr = word[4]
+letr = word[0]
 print(letr)
